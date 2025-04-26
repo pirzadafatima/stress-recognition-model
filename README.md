@@ -7,7 +7,7 @@ This project introduces an AI-powered stress recognition system using machine le
 - **Source:** CK+ (Cohn-Kanade Extended) Dataset
 - **Size:** 981 images labeled across 7 emotions (anger, contempt, disgust, fear, happy, sadness, surprise)
 
-### Preprocessing Steps
+## Preprocessing Steps
 - **Facial feature extraction** using dlib (68 landmarks)
 - **Metrics calculation** for:
   - Furrowed Brows Distance
